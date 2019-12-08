@@ -158,6 +158,13 @@ body {
     margin-top: -3px;    
 }
 
+@media screen and (max-width:550px)
+{
+    .btn-plus{
+        margin-top: 10px
+    }
+}
+
 
 
 .jum-a{
